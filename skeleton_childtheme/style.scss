@@ -27,6 +27,7 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 	#Toggles
 	#Callouts
 	#Comments
+	@Comment Box Styling
 	#WP Gallery
 	#Misc
 */
@@ -154,7 +155,7 @@ a.themeauthor {
 }
 
 #header #site-title a:hover {
-	color: #3253ad;
+	color: gray;
 }	
 
 /* Header Tagline */
@@ -1748,23 +1749,29 @@ body.page-template-onecolumn-page-php #comments .commentlist li .comment-meta {}
 	background:url(images/dark/comment_author_bg.png) no-repeat top right;
 }
 
+/* @Comment Box sass styling */
 
 $commentBorderRadius: 3px 3px 3px 3px;
 
-
 #respond {
-	color: #4e4a4a;
+	
+    color: #4e4a4a;
 	background-color: transparent;
-padding: 10% 33% 10% 3%;	
+    padding: 10% 33% 10% 3%;	
+
 }
+
 #respond h2 {
-	color: #4e4a4a;
+
+    color: #4e4a4a;
 	font-size: larger;
-	
+
 }
+
 #commentform small {
-	
-	font-size: medium;
+
+    font-size: medium;
+
 }
 
 #author {
@@ -1789,8 +1796,6 @@ padding: 10% 33% 10% 3%;
 
 }
 
-
-
 #email {
 	
 	min-width: 45%;
@@ -1812,7 +1817,6 @@ padding: 10% 33% 10% 3%;
     behavior: url("./wp-content/themes/skeleton/PIE.php");
 
 }
-
 
 #url {
 	
@@ -1836,10 +1840,9 @@ padding: 10% 33% 10% 3%;
 
 }
 
-
-
 #comment {
-	min-width: 45%;
+
+    min-width: 45%;
 	width: 50%;
 	max-width: 60%;
 	
@@ -1860,7 +1863,8 @@ padding: 10% 33% 10% 3%;
 }
 
 #submit {
-	font-size: medium;
+	
+    font-size: medium;
 	min-width: 45%;
 	width: 50%;
 	max-width: 60%;
@@ -1880,6 +1884,8 @@ padding: 10% 33% 10% 3%;
     behavior: url("./wp-content/themes/skeleton/PIE.php");
 
 }
+
+/* End @Comment Box sass styling */
 
 
 /* @end */

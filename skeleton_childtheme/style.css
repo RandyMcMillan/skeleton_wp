@@ -25,6 +25,7 @@ License URI: http://www.opensource.org/licenses/gpl-license.php
 	#Toggles
 	#Callouts
 	#Comments
+	@Comment Box Styling
 	#WP Gallery
 	#Misc
 */
@@ -135,7 +136,7 @@ a.themeauthor {
   text-shadow: 0px 1px 0px white; }
 
 #header #site-title a:hover {
-  color: #3253ad; }
+  color: gray; }
 
 /* Header Tagline */
 #header span.site-desc {
@@ -1754,6 +1755,7 @@ body.dark #comments {
 #comments body.dark .vcard {
   background: url(images/dark/comment_author_bg.png) no-repeat top right; }
 
+/* @Comment Box sass styling */
 #respond {
   color: #4e4a4a;
   background-color: transparent;
@@ -1858,6 +1860,7 @@ body.dark #comments {
   position: relative;
   behavior: url("./wp-content/themes/skeleton/PIE.php"); }
 
+/* End @Comment Box sass styling */
 /* @end */
 /* @group WP Gallery */
 .gallery {
