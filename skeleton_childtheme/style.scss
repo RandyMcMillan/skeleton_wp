@@ -1749,20 +1749,107 @@ body.page-template-onecolumn-page-php #comments .commentlist li .comment-meta {}
 }
 
 
+$commentBorderRadius: 3px 3px 3px 3px;
 
 
-#comment {
+#respond {
+	color: #4e4a4a;
+	background-color: transparent;
+padding: 10% 33% 10% 3%;	
+}
+#respond h2 {
+	color: #4e4a4a;
+	font-size: larger;
 	
-	$commentBorderRadius: 3px 3px 3px 3px;
+}
+#commentform small {
 	
-	width: 100%;
+	font-size: medium;
+}
+
+#author {
+	
+	min-width: 45%;
+	width: 50%;
+	max-width: 60%;
+	
  	b__ackground: -moz-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
  	bac__kground: -webkit-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
 	-pie-background: linear-gradient(#FCFCFC, #ECECEC);
     border-color: #EAEAEA #F5F5F5 #F5F5F5 #F5F5F5;
     -moz-border-radius:$commentBorderRadius;
     -webkit-border-radius: $commentBorderRadius;
-     border-radius: $commentBorderRadius;
+    border-radius: $commentBorderRadius;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+    -pie-box-shadow: 0 1px 1px #ccc;
+    position: relative;
+    behavior: url("./wp-content/themes/skeleton/PIE.php");
+
+}
+
+
+
+#email {
+	
+	min-width: 45%;
+	width: 50%;
+	max-width: 60%;
+	
+ 	b__ackground: -moz-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
+ 	bac__kground: -webkit-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
+	-pie-background: linear-gradient(#FCFCFC, #ECECEC);
+    border-color: #EAEAEA #F5F5F5 #F5F5F5 #F5F5F5;
+    -moz-border-radius:$commentBorderRadius;
+    -webkit-border-radius: $commentBorderRadius;
+    border-radius: $commentBorderRadius;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+    -pie-box-shadow: 0 1px 1px #ccc;
+    position: relative;
+    behavior: url("./wp-content/themes/skeleton/PIE.php");
+
+}
+
+
+#url {
+	
+	min-width: 45%;
+	width: 50%;
+	max-width: 60%;
+	
+ 	b__ackground: -moz-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
+ 	bac__kground: -webkit-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
+	-pie-background: linear-gradient(#FCFCFC, #ECECEC);
+    border-color: #EAEAEA #F5F5F5 #F5F5F5 #F5F5F5;
+    -moz-border-radius:$commentBorderRadius;
+    -webkit-border-radius: $commentBorderRadius;
+    border-radius: $commentBorderRadius;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+    -pie-box-shadow: 0 1px 1px #ccc;
+    position: relative;
+    behavior: url("./wp-content/themes/skeleton/PIE.php");
+
+}
+
+
+
+#comment {
+	min-width: 45%;
+	width: 50%;
+	max-width: 60%;
+	
+ 	b__ackground: -moz-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
+ 	bac__kground: -webkit-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
+	-pie-background: linear-gradient(#FCFCFC, #ECECEC);
+    border-color: #EAEAEA #F5F5F5 #F5F5F5 #F5F5F5;
+    -moz-border-radius:$commentBorderRadius;
+    -webkit-border-radius: $commentBorderRadius;
+    border-radius: $commentBorderRadius;
     border-style: solid;
     border-width: 1px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
@@ -1773,17 +1860,18 @@ body.page-template-onecolumn-page-php #comments .commentlist li .comment-meta {}
 }
 
 #submit {
-	
-	$submitBorderRadius: 3px 3px 3px 3px;
-	
-	width: 25%;
+	font-size: medium;
+	min-width: 45%;
+	width: 50%;
+	max-width: 60%;
+	padding: 2% 2% 2% 2%;
  	background: -moz-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
  	background: -webkit-linear-gradient(270deg, #FCFCFC, #ECECEC) repeat scroll 0 0 transparent;
 	-pie-background: linear-gradient(#FCFCFC, #ECECEC);
     border-color: #EAEAEA #F5F5F5 #F5F5F5 #F5F5F5;
-    -moz-border-radius:$submitBorderRadius;
-    -webkit-border-radius: $submitBorderRadius;
-     border-radius: $submitBorderRadius;
+    -moz-border-radius:$commentBorderRadius;
+    -webkit-border-radius: $commentBorderRadius;
+    border-radius: $commentBorderRadius;
     border-style: solid;
     border-width: 1px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);

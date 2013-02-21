@@ -1754,8 +1754,76 @@ body.dark #comments {
 #comments body.dark .vcard {
   background: url(images/dark/comment_author_bg.png) no-repeat top right; }
 
+#respond {
+  color: #4e4a4a;
+  background-color: transparent;
+  padding: 10% 33% 10% 3%; }
+
+#respond h2 {
+  color: #4e4a4a;
+  font-size: larger; }
+
+#commentform small {
+  font-size: medium; }
+
+#author {
+  min-width: 45%;
+  width: 50%;
+  max-width: 60%;
+  b__ackground: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  bac__kground: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  -pie-background: linear-gradient(#fcfcfc, #ececec);
+  border-color: #eaeaea whitesmoke whitesmoke whitesmoke;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+  -pie-box-shadow: 0 1px 1px #cccccc;
+  position: relative;
+  behavior: url("./wp-content/themes/skeleton/PIE.php"); }
+
+#email {
+  min-width: 45%;
+  width: 50%;
+  max-width: 60%;
+  b__ackground: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  bac__kground: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  -pie-background: linear-gradient(#fcfcfc, #ececec);
+  border-color: #eaeaea whitesmoke whitesmoke whitesmoke;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+  -pie-box-shadow: 0 1px 1px #cccccc;
+  position: relative;
+  behavior: url("./wp-content/themes/skeleton/PIE.php"); }
+
+#url {
+  min-width: 45%;
+  width: 50%;
+  max-width: 60%;
+  b__ackground: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  bac__kground: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  -pie-background: linear-gradient(#fcfcfc, #ececec);
+  border-color: #eaeaea whitesmoke whitesmoke whitesmoke;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+  -pie-box-shadow: 0 1px 1px #cccccc;
+  position: relative;
+  behavior: url("./wp-content/themes/skeleton/PIE.php"); }
+
 #comment {
-  width: 100%;
+  min-width: 45%;
+  width: 50%;
+  max-width: 60%;
   b__ackground: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
   bac__kground: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
   -pie-background: linear-gradient(#fcfcfc, #ececec);
@@ -1771,7 +1839,11 @@ body.dark #comments {
   behavior: url("./wp-content/themes/skeleton/PIE.php"); }
 
 #submit {
-  width: 25%;
+  font-size: medium;
+  min-width: 45%;
+  width: 50%;
+  max-width: 60%;
+  padding: 2% 2% 2% 2%;
   background: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
   background: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
   -pie-background: linear-gradient(#fcfcfc, #ececec);
