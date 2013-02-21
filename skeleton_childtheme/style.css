@@ -176,7 +176,7 @@ a.themeauthor {
 
 #navigation ul li {
   background: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
-  background: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  background: -webkit-linear-gradient(270deg, #fcfcfc 0%, #ececec 100%) repeat scroll 0 0 transparent;
   -pie-background: linear-gradient(#fcfcfc, #ececec);
   background-image: none;
   border-right: 1px solid #e3e3e3;
@@ -1753,6 +1753,38 @@ body.dark #comments {
 
 #comments body.dark .vcard {
   background: url(images/dark/comment_author_bg.png) no-repeat top right; }
+
+#comment {
+  width: 100%;
+  b__ackground: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  bac__kground: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  -pie-background: linear-gradient(#fcfcfc, #ececec);
+  border-color: #eaeaea whitesmoke whitesmoke whitesmoke;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+  -pie-box-shadow: 0 1px 1px #cccccc;
+  position: relative;
+  behavior: url("./wp-content/themes/skeleton/PIE.php"); }
+
+#submit {
+  width: 25%;
+  background: -moz-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  background: -webkit-linear-gradient(270deg, #fcfcfc, #ececec) repeat scroll 0 0 transparent;
+  -pie-background: linear-gradient(#fcfcfc, #ececec);
+  border-color: #eaeaea whitesmoke whitesmoke whitesmoke;
+  -moz-border-radius: 3px 3px 3px 3px;
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.09);
+  -pie-box-shadow: 0 1px 1px #cccccc;
+  position: relative;
+  behavior: url("./wp-content/themes/skeleton/PIE.php"); }
 
 /* @end */
 /* @group WP Gallery */

@@ -239,14 +239,16 @@
       "initialSize" : 1112,
       "fileType" : 8192
     },
-    "\/skeleton\/bbpress\/form-user-lost-pass.php" : {
+    "\/skeleton\/admin\/images\/colorpicker\/colorpicker_overlay.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/form-user-lost-pass.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/skeleton\/admin\/images\/colorpicker\/colorpicker_overlay.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/admin\/images\/colorpicker\/colorpicker_overlay.png",
+      "initialSize" : 10355,
+      "fileType" : 8192
     },
     "\/skeleton\/images\/light\/tab_hover.png" : {
       "ignoreWasSetByUser" : 0,
@@ -259,16 +261,14 @@
       "initialSize" : 93,
       "fileType" : 8192
     },
-    "\/skeleton\/admin\/images\/colorpicker\/colorpicker_overlay.png" : {
+    "\/skeleton\/bbpress\/form-user-lost-pass.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/admin\/images\/colorpicker\/colorpicker_overlay.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/admin\/images\/colorpicker\/colorpicker_overlay.png",
-      "initialSize" : 10355,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/form-user-lost-pass.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/icons\/blue_speech_bubble.png" : {
       "ignoreWasSetByUser" : 0,
@@ -330,24 +330,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/single-reply-edit.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/single-reply-edit.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/skeleton\/bbpress\/content-single-topic-lead.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-topic-lead.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/screenshot.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -359,6 +341,15 @@
       "initialSize" : 6841,
       "fileType" : 8192
     },
+    "\/skeleton\/bbpress\/content-single-topic-lead.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-topic-lead.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/skeleton\/images\/icons\/comment.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -369,6 +360,15 @@
       "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/comment.png",
       "initialSize" : 327,
       "fileType" : 8192
+    },
+    "\/skeleton\/single-reply-edit.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/single-reply-edit.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/headers\/berries-thumbnail.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -452,6 +452,15 @@
       "initialSize" : 1120,
       "fileType" : 8192
     },
+    "\/skeleton\/functions.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/functions.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/skeleton\/images\/headers\/inkwell-thumbnail.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -472,14 +481,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/functions.php" : {
+    "\/skeleton\/images\/dark\/arrow_bullet.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/functions.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/skeleton\/images\/dark\/arrow_bullet.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/dark\/arrow_bullet.png",
+      "initialSize" : 299,
+      "fileType" : 8192
     },
     "\/skeleton\/images\/light\/tag_bg_r.png" : {
       "ignoreWasSetByUser" : 0,
@@ -490,17 +501,6 @@
       "processed" : 0,
       "outputAbbreviatedPath" : "\/skeleton\/images\/light\/tag_bg_r.png",
       "initialSize" : 371,
-      "fileType" : 8192
-    },
-    "\/skeleton\/images\/dark\/arrow_bullet.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/dark\/arrow_bullet.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/dark\/arrow_bullet.png",
-      "initialSize" : 299,
       "fileType" : 8192
     },
     "\/skeleton\/images\/icons\/post_tags.png" : {
@@ -572,15 +572,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/bbpress\/loop-replies.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/loop-replies.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/images\/icons\/16_star.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -591,6 +582,15 @@
       "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/16_star.png",
       "initialSize" : 695,
       "fileType" : 8192
+    },
+    "\/skeleton\/bbpress\/loop-replies.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/loop-replies.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/icons\/photo_credit.png" : {
       "ignoreWasSetByUser" : 0,
@@ -603,6 +603,15 @@
       "initialSize" : 1625,
       "fileType" : 8192
     },
+    "\/skeleton\/editor-style-rtl.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/editor-style-rtl.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/skeleton\/images\/icons\/lightbulb.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -613,15 +622,6 @@
       "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/lightbulb.png",
       "initialSize" : 937,
       "fileType" : 8192
-    },
-    "\/skeleton\/editor-style-rtl.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/editor-style-rtl.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/skeleton\/images\/gradient_small_trans.png" : {
       "ignoreWasSetByUser" : 0,
@@ -697,15 +697,6 @@
       "initialSize" : 5530,
       "fileType" : 4096
     },
-    "\/skeleton\/page-user-register.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/page-user-register.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/editor-style.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -714,6 +705,15 @@
       "inputAbbreviatedPath" : "\/skeleton\/editor-style.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/skeleton\/page-user-lost-pass.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/page-user-lost-pass.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/headers\/sunset-thumbnail.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -737,14 +737,16 @@
       "initialSize" : 1897,
       "fileType" : 8192
     },
-    "\/skeleton\/page-user-lost-pass.php" : {
+    "\/skeleton\/images\/dark\/button.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/page-user-lost-pass.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/skeleton\/images\/dark\/button.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/dark\/button.png",
+      "initialSize" : 154,
+      "fileType" : 8192
     },
     "\/skeleton\/admin\/options-medialibrary-uploader.php" : {
       "ignoreWasSetByUser" : 0,
@@ -764,16 +766,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/images\/dark\/button.png" : {
+    "\/skeleton\/page-user-register.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/dark\/button.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/dark\/button.png",
-      "initialSize" : 154,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/skeleton\/page-user-register.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/bbpress\/content-single-view.php" : {
       "ignoreWasSetByUser" : 0,
@@ -806,21 +806,21 @@
       "initialSize" : 250,
       "fileType" : 8192
     },
-    "\/skeleton\/single.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/single.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/footer.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/skeleton\/footer.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/skeleton\/single.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/single.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -937,17 +937,6 @@
       "initialSize" : 1823,
       "fileType" : 8192
     },
-    "\/skeleton\/images\/light\/product_divider.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/product_divider.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/product_divider.png",
-      "initialSize" : 226,
-      "fileType" : 8192
-    },
     "\/skeleton\/jigoshop.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -956,6 +945,15 @@
       "inputAbbreviatedPath" : "\/skeleton\/jigoshop.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/skeleton\/single-topic.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/single-topic.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/bbpress\/form-user-register.php" : {
       "ignoreWasSetByUser" : 0,
@@ -966,14 +964,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/single-topic.php" : {
+    "\/skeleton\/images\/light\/product_divider.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/single-topic.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/product_divider.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/product_divider.png",
+      "initialSize" : 226,
+      "fileType" : 8192
     },
     "\/skeleton\/bbpress\/content-archive-forum.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1071,17 +1071,6 @@
       "initialSize" : 1012,
       "fileType" : 8192
     },
-    "\/skeleton\/images\/headers\/path-thumbnail.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/headers\/path-thumbnail.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/headers\/path-thumbnail.jpg",
-      "initialSize" : 4560,
-      "fileType" : 4096
-    },
     "\/skeleton\/images\/wordpress.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1093,17 +1082,6 @@
       "initialSize" : 849,
       "fileType" : 8192
     },
-    "\/skeleton\/images\/headers\/forestfloor-thumbnail.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/headers\/forestfloor-thumbnail.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/headers\/forestfloor-thumbnail.jpg",
-      "initialSize" : 6719,
-      "fileType" : 4096
-    },
     "\/skeleton\/images\/apple-touch-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1114,6 +1092,28 @@
       "outputAbbreviatedPath" : "\/skeleton\/images\/apple-touch-icon.png",
       "initialSize" : 2469,
       "fileType" : 8192
+    },
+    "\/skeleton\/images\/headers\/path-thumbnail.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/images\/headers\/path-thumbnail.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/headers\/path-thumbnail.jpg",
+      "initialSize" : 4560,
+      "fileType" : 4096
+    },
+    "\/skeleton\/images\/headers\/forestfloor-thumbnail.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/images\/headers\/forestfloor-thumbnail.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/headers\/forestfloor-thumbnail.jpg",
+      "initialSize" : 6719,
+      "fileType" : 4096
     },
     "\/skeleton\/images\/headers\/inkwell.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1257,23 +1257,21 @@
       "initialSize" : 82037,
       "fileType" : 4096
     },
-    "\/skeleton\/images\/icons\/col_w.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/icons\/col_w.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/col_w.png",
-      "initialSize" : 224,
-      "fileType" : 8192
-    },
     "\/skeleton\/bbpress\/feedback-no-forums.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/skeleton\/bbpress\/feedback-no-forums.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/skeleton\/bbpress\/content-single-forum.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-forum.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1286,14 +1284,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/skeleton\/bbpress\/content-single-forum.php" : {
+    "\/skeleton\/images\/icons\/col_w.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-forum.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/skeleton\/images\/icons\/col_w.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/col_w.png",
+      "initialSize" : 224,
+      "fileType" : 8192
     },
     "\/skeleton\/admin\/images\/colorpicker\/colorpicker_rgb_r.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1335,6 +1335,24 @@
       "initialSize" : 90,
       "fileType" : 8192
     },
+    "\/skeleton\/formalize.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/formalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/skeleton\/loop.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/loop.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/skeleton_childtheme\/functions.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1344,12 +1362,12 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/loop.php" : {
+    "\/skeleton\/index.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/loop.php",
+      "inputAbbreviatedPath" : "\/skeleton\/index.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1361,26 +1379,6 @@
       "inputAbbreviatedPath" : "\/skeleton\/superfish.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/skeleton\/index.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/index.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/skeleton\/images\/apple-touch-icon-72x72.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/apple-touch-icon-72x72.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/apple-touch-icon-72x72.png",
-      "initialSize" : 3872,
-      "fileType" : 8192
     },
     "\/skeleton\/images\/headers\/fern.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1413,14 +1411,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/formalize.css" : {
+    "\/skeleton\/images\/apple-touch-icon-72x72.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/formalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/skeleton\/images\/apple-touch-icon-72x72.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/apple-touch-icon-72x72.png",
+      "initialSize" : 3872,
+      "fileType" : 8192
     },
     "\/skeleton\/admin\/options-sanitize.php" : {
       "ignoreWasSetByUser" : 0,
@@ -1451,24 +1451,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/bbpress\/content-single-user.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-user.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/skeleton\/bbpress\/feedback-no-access.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/feedback-no-access.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/images\/border_top.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1480,23 +1462,12 @@
       "initialSize" : 49314,
       "fileType" : 8192
     },
-    "\/skeleton\/admin\/js\/colorpicker.js" : {
+    "\/skeleton\/bbpress\/content-single-user.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/admin\/js\/colorpicker.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/skeleton\/admin\/js\/colorpicker-ck.js",
-      "fileType" : 64
-    },
-    "\/skeleton\/single-reply.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/single-reply.php",
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-user.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1519,6 +1490,35 @@
       "inputAbbreviatedPath" : "\/skeleton_childtheme\/style.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/skeleton\/admin\/js\/colorpicker.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/admin\/js\/colorpicker.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/skeleton\/admin\/js\/colorpicker-ck.js",
+      "fileType" : 64
+    },
+    "\/skeleton\/single-reply.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/single-reply.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/skeleton\/bbpress\/feedback-no-access.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/feedback-no-access.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/icons\/16_linkedin.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1551,15 +1551,6 @@
       "initialSize" : 532,
       "fileType" : 8192
     },
-    "\/skeleton\/bbpress\/form-protected.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/form-protected.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/images\/dark\/comment_author_bg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1571,16 +1562,14 @@
       "initialSize" : 526,
       "fileType" : 8192
     },
-    "\/skeleton\/images\/light\/tab_active.png" : {
+    "\/skeleton\/single-topic-merge.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/tab_active.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/tab_active.png",
-      "initialSize" : 176,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/skeleton\/single-topic-merge.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/icons\/readmore.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1593,14 +1582,25 @@
       "initialSize" : 1143,
       "fileType" : 8192
     },
-    "\/skeleton\/single-topic-merge.php" : {
+    "\/skeleton\/bbpress\/form-protected.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/single-topic-merge.php",
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/form-protected.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/skeleton\/images\/light\/tab_active.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/tab_active.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/tab_active.png",
+      "initialSize" : 176,
+      "fileType" : 8192
     },
     "\/skeleton\/admin\/images\/colorpicker\/colorpicker_submit.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1786,21 +1786,21 @@
       "initialSize" : 543,
       "fileType" : 8192
     },
-    "\/skeleton\/bbpress\/loop-topics.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/loop-topics.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/archive.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/skeleton\/archive.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/skeleton\/bbpress\/loop-topics.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/loop-topics.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1933,6 +1933,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/skeleton\/images\/light\/comment_author_bg.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/comment_author_bg.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/comment_author_bg.png",
+      "initialSize" : 1089,
+      "fileType" : 8192
+    },
     "\/skeleton\/images\/light\/tab_bg.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1944,16 +1955,14 @@
       "initialSize" : 187,
       "fileType" : 8192
     },
-    "\/skeleton\/images\/light\/comment_author_bg.png" : {
+    "\/skeleton\/sidebar-page.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/comment_author_bg.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/comment_author_bg.png",
-      "initialSize" : 1089,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/skeleton\/sidebar-page.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/images\/icons\/16_expand.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1966,15 +1975,6 @@
       "initialSize" : 390,
       "fileType" : 8192
     },
-    "\/skeleton\/loop-single.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/loop-single.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/images\/icons\/info.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1986,6 +1986,24 @@
       "initialSize" : 1342,
       "fileType" : 8192
     },
+    "\/skeleton\/taxonomy-product_cat.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/taxonomy-product_cat.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/skeleton\/loop-single.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/loop-single.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/skeleton\/admin\/images\/colorpicker\/colorpicker_hsb_s.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1996,24 +2014,6 @@
       "outputAbbreviatedPath" : "\/skeleton\/admin\/images\/colorpicker\/colorpicker_hsb_s.png",
       "initialSize" : 1171,
       "fileType" : 8192
-    },
-    "\/skeleton\/taxonomy-product_cat.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/taxonomy-product_cat.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/skeleton\/sidebar-page.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/sidebar-page.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/skeleton\/images\/icons\/16_twitter.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2066,21 +2066,21 @@
       "initialSize" : 10118,
       "fileType" : 8192
     },
-    "\/skeleton\/bbpress\/content-single-user-edit.php" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-user-edit.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/skeleton\/loop-page.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/skeleton\/loop-page.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/skeleton\/bbpress\/content-single-user-edit.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/skeleton\/bbpress\/content-single-user-edit.php",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -2164,14 +2164,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/single-product.php" : {
+    "\/skeleton\/images\/light\/button-light.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/single-product.php",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/button-light.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/button-light.png",
+      "initialSize" : 85,
+      "fileType" : 8192
     },
     "\/skeleton\/images\/headers\/berries.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2193,15 +2195,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/images\/light\/button-light.png" : {
+    "\/skeleton\/images\/icons\/youtube.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/light\/button-light.png",
+      "inputAbbreviatedPath" : "\/skeleton\/images\/icons\/youtube.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/light\/button-light.png",
-      "initialSize" : 85,
+      "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/youtube.png",
+      "initialSize" : 663,
       "fileType" : 8192
     },
     "\/skeleton\/images\/icons\/star-rating.png" : {
@@ -2224,16 +2226,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/skeleton\/images\/icons\/youtube.png" : {
+    "\/skeleton\/single-product.php" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/skeleton\/images\/icons\/youtube.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/skeleton\/images\/icons\/youtube.png",
-      "initialSize" : 663,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/skeleton\/single-product.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/skeleton\/skeleton.css" : {
       "ignoreWasSetByUser" : 0,
